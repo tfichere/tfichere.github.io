@@ -1,0 +1,40 @@
+body
+{
+		 
+	float: right;
+	background-color: white;
+	color: white;
+	background: url("phone.png") fixed no-repeat bottom left /800px 635px, url("future.jpg") fixed;
+  	width:350px;
+	height:400px;
+	
+	
+}
+}
+mark
+{
+	background-color: blue;
+	color: white;
+}
+h1
+{
+	border: 3px white outset;
+	text-align: center;
+}
+p
+{
+	text-align: center
+}
+.signature
+
+{
+
+    text-align: right;
+
+}
+h1.hover
+{
+	cursor: url("cursor.png");
+}
+
+
